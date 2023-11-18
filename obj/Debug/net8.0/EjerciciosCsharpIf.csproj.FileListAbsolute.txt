@@ -1,0 +1,14 @@
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\bin\Debug\net8.0\EjerciciosCsharpIf.exe
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\bin\Debug\net8.0\EjerciciosCsharpIf.deps.json
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\bin\Debug\net8.0\EjerciciosCsharpIf.runtimeconfig.json
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\bin\Debug\net8.0\EjerciciosCsharpIf.dll
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\bin\Debug\net8.0\EjerciciosCsharpIf.pdb
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.AssemblyInfo.cs
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.dll
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\refint\EjerciciosCsharpIf.dll
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.pdb
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\EjerciciosCsharpIf.genruntimeconfig.cache
+C:\Users\felip\source\repos\EjerciciosCsharpIf\EjerciciosCsharpIf\obj\Debug\net8.0\ref\EjerciciosCsharpIf.dll
